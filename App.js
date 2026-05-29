@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Almoxarifado - Enfermagem</Text>
-      <Text style={styles.subtitle}>Desenvolva o sistema a partir desta casca...</Text>
+      <Text style={styles.subtitle}>Este é o esqueleto inicial do seu sistema de controle de estoque. Seu desafio é transformar esta casca estática em um aplicativo dinâmico e funcional, segmentado em 3 Sprints.</Text>
     </View>
   );
 }
